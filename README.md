@@ -38,6 +38,6 @@ npm run build
 - [x] Can mark the appointment as arrive
 - [x] can rescheduled the appointment, old appointment mark as rescheduled and the new one will be created
 - [x] Organize codes
-- [ ] create env to store the api url
+- [x] create env to store the api url
 
 
